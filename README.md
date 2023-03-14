@@ -5,7 +5,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/Prajwal_b_k" target="_blank">
-    <img alt="Twitter: gdsclpu" src="https://img.shields.io/twitter/follow/Prajwal_b_k.svg?style=social" />
+    <img alt="Twitter: Prajwal_b_k" src="https://img.shields.io/twitter/follow/Prajwal_b_k.svg?style=social" />
   </a>
 </p>
 
